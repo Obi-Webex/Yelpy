@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Yelpy/static/css/main.5ee54515.chunk.css",
+    "main.js": "/Yelpy/static/js/main.e9debde2.chunk.js",
+    "main.js.map": "/Yelpy/static/js/main.e9debde2.chunk.js.map",
+    "runtime-main.js": "/Yelpy/static/js/runtime-main.601046d3.js",
+    "runtime-main.js.map": "/Yelpy/static/js/runtime-main.601046d3.js.map",
+    "static/js/2.e6d9204c.chunk.js": "/Yelpy/static/js/2.e6d9204c.chunk.js",
+    "static/js/2.e6d9204c.chunk.js.map": "/Yelpy/static/js/2.e6d9204c.chunk.js.map",
+    "index.html": "/Yelpy/index.html",
+    "precache-manifest.474d2ae6f0c3faf66915a2b6b389e40f.js": "/Yelpy/precache-manifest.474d2ae6f0c3faf66915a2b6b389e40f.js",
+    "service-worker.js": "/Yelpy/service-worker.js",
+    "static/css/main.5ee54515.chunk.css.map": "/Yelpy/static/css/main.5ee54515.chunk.css.map",
+    "static/js/2.e6d9204c.chunk.js.LICENSE.txt": "/Yelpy/static/js/2.e6d9204c.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/Yelpy/static/media/background_search_mobile.5d0905e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.601046d3.js",
+    "static/js/2.e6d9204c.chunk.js",
+    "static/css/main.5ee54515.chunk.css",
+    "static/js/main.e9debde2.chunk.js"
+  ]
+}
